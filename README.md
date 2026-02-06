@@ -1,2 +1,10 @@
-# NLP_text_analyzer
-A sentence is given and the stop words are filtered and a new sentence is generated. The number of filter words and their size are printed in the new sentence.
+# Basic Text processing in python
+A simple python project for basic Persian and English text  processing implemented without external libraries.
+##Features
+_Removes selected Persian and English stopwords and connector words
+_Remove punctuation marks
+_Generates a cleaned sentence
+_show number of removed words
+_Displays the most frequent word
+##Technologies
+python(standard library only)
